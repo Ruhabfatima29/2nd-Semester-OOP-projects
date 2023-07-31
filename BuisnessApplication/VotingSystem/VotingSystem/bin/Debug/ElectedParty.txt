@@ -1,0 +1,3 @@
+Party,Lion,ahmad,0,faiza;female;09876-5432123-0;Employee;2244
+pml,bulb,zishi,5,asim;male;09876-0987654-4;Employee;1880
+ani,bat,quratulain,0,habib;male;67895-0987654-3;Employee;1134

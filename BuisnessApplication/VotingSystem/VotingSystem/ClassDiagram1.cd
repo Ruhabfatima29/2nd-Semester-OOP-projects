@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="VotingSystem.BL.ElectedParty" Collapsed="true">
+    <Position X="6" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IgCIgCAAAQABgAAAAIIIAAQAAAQAAAEAAAABAAgAigA=</HashCode>
+      <FileName>BL\ElectedParty.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VotingSystem.BL.Person" Collapsed="true">
+    <Position X="3.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAABIQIAARAACBEAAIgBQAAAAEAABCAAAEAgAAAIA=</HashCode>
+      <FileName>BL\Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VotingSystem.BL.PollingStation" Collapsed="true">
+    <Position X="7.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IIABCAAAAAAAAAAAAAAgAAAAIAAAABBAAAAEAQAAABE=</HashCode>
+      <FileName>BL\PollingStation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VotingSystem.BL.Voter" Collapsed="true">
+    <Position X="3.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAIEAAACBAAAAAACAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>BL\Voter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

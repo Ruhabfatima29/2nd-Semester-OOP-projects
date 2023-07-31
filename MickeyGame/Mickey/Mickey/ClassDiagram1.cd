@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Mickey.GL.Bullet">
+    <Position X="3.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAIACAECAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GL\Bullet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mickey.GL.CollisionDetector">
+    <Position X="28" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAACAACAAAA=</HashCode>
+      <FileName>GL\CollisionDetector.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mickey.GL.EnemyBullet">
+    <Position X="6.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIACAECAAABABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GL\EnemyBullet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mickey.GL.Game">
+    <Position X="20.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QIAAkkCAAQIMAAABCABKAAAAIAAAAQSACAIAAGABJAA=</HashCode>
+      <FileName>GL\Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mickey.GL.GameCell">
+    <Position X="25.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAIAAAwAQAAIAwACACIAAADgAAAAAAAAYAA=</HashCode>
+      <FileName>GL\GameCell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mickey.GL.GameGhost">
+    <Position X="10.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAACAAIAAAAAACAAAAAAAAAAAAAAABAAAAAAAEAAAg=</HashCode>
+      <FileName>GL\GameGhost.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mickey.GL.GameGrid">
+    <Position X="22.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAEIAAABAAIACAACAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>GL\GameGrid.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mickey.GL.GameObject">
+    <Position X="8.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAABAAAAEgAAQBAAAEAAEAAAABA=</HashCode>
+      <FileName>GL\GameObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mickey.GL.GamePlayerMickey">
+    <Position X="12.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAACAAAAAAAAAAAIAAAACAAAAAAAAAAg=</HashCode>
+      <FileName>GL\GamePlayerMickey.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mickey.GL.HorizontalGhost">
+    <Position X="10.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIACAAAAAAAAAIAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>GL\HorizontalGhost.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mickey.GL.SmartGhost">
+    <Position X="14" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAIACAAAAAAAAAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>GL\SmartGhost.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mickey.GL.VerticalGhost">
+    <Position X="7.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIACAAAAAAAAAIAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>GL\VerticalGhost.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Mickey.GL.GameDirection">
+    <Position X="27" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAACACAAAAAAAI=</HashCode>
+      <FileName>GL\GameDirection.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Mickey.GL.GameGhostType">
+    <Position X="31" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>GL\GameGhostType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Mickey.GL.GameObjectType">
+    <Position X="29" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAMgAAQAAQAAAABAAAAAAAAAAAABAACUAAA=</HashCode>
+      <FileName>GL\GameObjectType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

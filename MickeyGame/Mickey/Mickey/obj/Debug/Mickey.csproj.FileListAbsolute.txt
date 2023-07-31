@@ -1,0 +1,34 @@
+E:\Final Projects\MickeyGame\Mickey\Mickey\bin\Debug\Mickey.exe.config
+E:\Final Projects\MickeyGame\Mickey\Mickey\bin\Debug\Mickey.exe
+E:\Final Projects\MickeyGame\Mickey\Mickey\bin\Debug\Mickey.pdb
+E:\Final Projects\MickeyGame\Mickey\Mickey\obj\Debug\Mickey.csproj.AssemblyReference.cache
+E:\Final Projects\MickeyGame\Mickey\Mickey\obj\Debug\Mickey.Properties.Resources.resources
+E:\Final Projects\MickeyGame\Mickey\Mickey\obj\Debug\Mickey.csproj.GenerateResource.cache
+E:\Final Projects\MickeyGame\Mickey\Mickey\obj\Debug\Mickey.csproj.CoreCompileInputs.cache
+E:\Final Projects\MickeyGame\Mickey\Mickey\obj\Debug\Mickey.exe
+E:\Final Projects\MickeyGame\Mickey\Mickey\obj\Debug\Mickey.pdb
+E:\Final Projects\MickeyGame\Mickey\Mickey\obj\Debug\Mickey.Form1.resources
+E:\Final Projects\MickeyGame\Mickey\Mickey\bin\Debug\EZInput.dll
+E:\Final Projects\MickeyGame\Mickey\Mickey\bin\Debug\EZInput.xml
+E:\Final Projects\MickeyGame\Mickey\Mickey\obj\Debug\Mickey.csproj.CopyComplete
+E:\Final Projects\MickeyGame\Mickey\Mickey\obj\Debug\Mickey.MickeyGame.resources
+E:\Final Projects\MickeyGame\Mickey\Mickey\obj\Debug\Mickey.Instructions.resources
+E:\Final Projects\MickeyGame\Mickey\Mickey\obj\Debug\Mickey.Lose.resources
+E:\Final Projects\MickeyGame\Mickey\Mickey\obj\Debug\Mickey.Win.resources
+E:\Final Projects\GitHuB Projects\MickeyGame\Mickey\Mickey\bin\Debug\Mickey.exe.config
+E:\Final Projects\GitHuB Projects\MickeyGame\Mickey\Mickey\bin\Debug\Mickey.exe
+E:\Final Projects\GitHuB Projects\MickeyGame\Mickey\Mickey\bin\Debug\Mickey.pdb
+E:\Final Projects\GitHuB Projects\MickeyGame\Mickey\Mickey\bin\Debug\EZInput.dll
+E:\Final Projects\GitHuB Projects\MickeyGame\Mickey\Mickey\bin\Debug\EZInput.xml
+E:\Final Projects\GitHuB Projects\MickeyGame\Mickey\Mickey\obj\Debug\Mickey.csproj.AssemblyReference.cache
+E:\Final Projects\GitHuB Projects\MickeyGame\Mickey\Mickey\obj\Debug\Mickey.Form1.resources
+E:\Final Projects\GitHuB Projects\MickeyGame\Mickey\Mickey\obj\Debug\Mickey.MickeyGame.resources
+E:\Final Projects\GitHuB Projects\MickeyGame\Mickey\Mickey\obj\Debug\Mickey.Instructions.resources
+E:\Final Projects\GitHuB Projects\MickeyGame\Mickey\Mickey\obj\Debug\Mickey.Lose.resources
+E:\Final Projects\GitHuB Projects\MickeyGame\Mickey\Mickey\obj\Debug\Mickey.Properties.Resources.resources
+E:\Final Projects\GitHuB Projects\MickeyGame\Mickey\Mickey\obj\Debug\Mickey.Win.resources
+E:\Final Projects\GitHuB Projects\MickeyGame\Mickey\Mickey\obj\Debug\Mickey.csproj.GenerateResource.cache
+E:\Final Projects\GitHuB Projects\MickeyGame\Mickey\Mickey\obj\Debug\Mickey.csproj.CoreCompileInputs.cache
+E:\Final Projects\GitHuB Projects\MickeyGame\Mickey\Mickey\obj\Debug\Mickey.csproj.CopyComplete
+E:\Final Projects\GitHuB Projects\MickeyGame\Mickey\Mickey\obj\Debug\Mickey.exe
+E:\Final Projects\GitHuB Projects\MickeyGame\Mickey\Mickey\obj\Debug\Mickey.pdb

@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="VotingSystem.AdminForm" Collapsed="true">
+    <Position X="3.75" Y="1.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>/3ALLHGUKiQwXbUCFATYwY2DMPm4RKGEsnSAMzbjnLE=</HashCode>
+      <FileName>AdminForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VotingSystem.AdminWelcome" Collapsed="true">
+    <Position X="5.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAQAACAAABAAAACAAAACAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>AdminWelcome.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VotingSystem.Login1" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QIAAApAIACAAABAAAACgAQESAACAAAAAACAAAgBAAQA=</HashCode>
+      <FileName>Login1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VotingSystem.Program" Collapsed="true">
+    <Position X="5.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VotingSystem.SignUp" Collapsed="true">
+    <Position X="14.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AhAAABEAACAEQBAMAACEhAEiIJgEAAAAAAAAAwZAAAA=</HashCode>
+      <FileName>SignUp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VotingSystem.UserForm" Collapsed="true">
+    <Position X="9" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/xBACBAAACAOEBEAEACClGACANw7AAAEwnYPAUBUBDE=</HashCode>
+      <FileName>UserForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VotingSystem.Welcome" Collapsed="true">
+    <Position X="10.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACABAACAAAAAAAAAAAAAAJAAAA=</HashCode>
+      <FileName>Welcome.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VotingSystem.WelcomeVoter" Collapsed="true">
+    <Position X="12.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAAAAAAAAAAAQBAAAA=</HashCode>
+      <FileName>WelcomeVoter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VotingSystem.BL.ElectedParty" Collapsed="true">
+    <Position X="9" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IgCIgCAAAQABgAAAAIIIAAQAAAQAAAEAAAABAAgAigA=</HashCode>
+      <FileName>BL\ElectedParty.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VotingSystem.BL.Person" Collapsed="true">
+    <Position X="1.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAABIQIAARAACBEAAIgBQAAAAEAABCAAAEAgAAAIA=</HashCode>
+      <FileName>BL\Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VotingSystem.BL.PollingStation" Collapsed="true">
+    <Position X="7.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IIABCAAAAAAAAAAAAAAgAAAAIAAAABBAAAAEAQAAABE=</HashCode>
+      <FileName>BL\PollingStation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VotingSystem.BL.Voter" Collapsed="true">
+    <Position X="1.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAIEAAACBAAAAAACAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>BL\Voter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VotingSystem.DL.ElectedPartyDL" Collapsed="true">
+    <Position X="9" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BgAAAAAAACAAAQSAAAAABgAAAAAAAAAIBAAAAiABCAA=</HashCode>
+      <FileName>DL\ElectedPartyDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VotingSystem.DL.PersonDL" Collapsed="true">
+    <Position X="3.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IIAEkAAIAAAEAAAAAAAABIAAAAAAAAQAEAAAgggAAAA=</HashCode>
+      <FileName>DL\PersonDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VotingSystem.DL.PollingStationDL" Collapsed="true">
+    <Position X="7.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAIACQAAAAAAIAAEAIAAAAAAAAAAABABEAAAAACAAA=</HashCode>
+      <FileName>DL\PollingStationDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VotingSystem.DL.VoterDL" Collapsed="true">
+    <Position X="5.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAQIEAACIAAAAAAAABAAAAAAAAgAAAg=</HashCode>
+      <FileName>DL\VoterDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

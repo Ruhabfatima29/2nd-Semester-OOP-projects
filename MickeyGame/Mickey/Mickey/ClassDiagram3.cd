@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Mickey.Form1" Collapsed="true">
+    <Position X="23.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAiAASAASHQAiACIAAICCAAAIASIgAQAMCAQAAM=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mickey.Instructions" Collapsed="true">
+    <Position X="23.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAIAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Instructions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mickey.Lose" Collapsed="true">
+    <Position X="25.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAIAAAAAEAAAABAAAA=</HashCode>
+      <FileName>Lose.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mickey.MickeyGame" Collapsed="true">
+    <Position X="27.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAA4AAAAAHAAAABAAAA=</HashCode>
+      <FileName>MickeyGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mickey.Program" Collapsed="true">
+    <Position X="22" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mickey.Win" Collapsed="true">
+    <Position X="27.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAIAAAAAEAAAABAAAA=</HashCode>
+      <FileName>Win.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mickey.GL.Bullet" Collapsed="true">
+    <Position X="8" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIACAECAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GL\Bullet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mickey.GL.CollisionDetector" Collapsed="true">
+    <Position X="22" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAACAACAAAA=</HashCode>
+      <FileName>GL\CollisionDetector.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mickey.GL.EnemyBullet" Collapsed="true">
+    <Position X="19.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIACAECAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GL\EnemyBullet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mickey.GL.Game" Collapsed="true">
+    <Position X="25.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QIAAkkCABQIMAAABCABKAAABIAAAAQSACAIAAEABJAA=</HashCode>
+      <FileName>GL\Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mickey.GL.GameCell" Collapsed="true">
+    <Position X="27.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAIAAAwAQAAIAwACACIAAADgAAAAAAAAYAA=</HashCode>
+      <FileName>GL\GameCell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mickey.GL.GameGhost" Collapsed="true">
+    <Position X="12.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAACAAIAAAAAACAAAAAAAAAAAAAAABAAAAAAAEAAAg=</HashCode>
+      <FileName>GL\GameGhost.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mickey.GL.GameGrid" Collapsed="true">
+    <Position X="22" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAEIAAABAAIACAACAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>GL\GameGrid.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mickey.GL.GameObject" Collapsed="true">
+    <Position X="13.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAABAAAAEgAAQBAAAEAAEAAAABA=</HashCode>
+      <FileName>GL\GameObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mickey.GL.GamePlayerMickey" Collapsed="true">
+    <Position X="17" Y="1.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAACAAAAAAAAAAAIAAAACAAAAAAAAAAg=</HashCode>
+      <FileName>GL\GamePlayerMickey.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mickey.GL.HorizontalGhost" Collapsed="true">
+    <Position X="12.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIACAAAAAAAAAIAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>GL\HorizontalGhost.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mickey.GL.SmartGhost" Collapsed="true">
+    <Position X="14.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAIACAAAAAAAAAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>GL\SmartGhost.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mickey.GL.VerticalGhost" Collapsed="true">
+    <Position X="10.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIACAAAAAAAAAIAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>GL\VerticalGhost.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mickey.Properties.Resources" Collapsed="true">
+    <Position X="23.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABwCEAAQAgQAAICAEFEgQgAQUGCAAAABAEAIgEAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mickey.Properties.Settings" Collapsed="true">
+    <Position X="25.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Mickey.GL.GameDirection" Collapsed="true">
+    <Position X="22" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAACACAAAAAAAI=</HashCode>
+      <FileName>GL\GameDirection.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Mickey.GL.GameGhostType" Collapsed="true">
+    <Position X="23.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>GL\GameGhostType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Mickey.GL.GameObjectType" Collapsed="true">
+    <Position X="25.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAMgAAQAAQAAAABAAAAAAAAAAAABAACUAAA=</HashCode>
+      <FileName>GL\GameObjectType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

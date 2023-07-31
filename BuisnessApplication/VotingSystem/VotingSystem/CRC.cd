@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="VotingSystem.BL.ElectedParty">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IgCIgCAAAQABgAAAAIIIAAQAAAQAAAEAAAABAAgAigA=</HashCode>
+      <FileName>BL\ElectedParty.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VotingSystem.BL.Person">
+    <Position X="1.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAABIQIAARAACBEAAIgBQAAAAEAABCAAAEAgAAAIA=</HashCode>
+      <FileName>BL\Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VotingSystem.BL.PollingStation">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IIABCAAAAAAAAAAAAAAgAAAAIAAAABBAAAAEAQAAABE=</HashCode>
+      <FileName>BL\PollingStation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VotingSystem.BL.Voter">
+    <Position X="3.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAIEAAACBAAAAAACAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>BL\Voter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VotingSystem.DL.ElectedPartyDL">
+    <Position X="13" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BgAAAAAAACAAAQSAAAAABgAAAAAAAAAIBAAAAiABCAA=</HashCode>
+      <FileName>DL\ElectedPartyDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VotingSystem.DL.PersonDL">
+    <Position X="10.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IIAEkAAIAAAEAAAAAAAABIAAAAAAAAQAEAAAgggAAAA=</HashCode>
+      <FileName>DL\PersonDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VotingSystem.DL.PollingStationDL">
+    <Position X="9.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAIACQAAAAAAIAAEAIAAAAAAAAAAABABEAAAAACAAA=</HashCode>
+      <FileName>DL\PollingStationDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VotingSystem.DL.VoterDL">
+    <Position X="12.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAQIEAACIAAAAAAAABAAAAAAAAgAAAg=</HashCode>
+      <FileName>DL\VoterDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VotingSystem.UI.PersonUI">
+    <Position X="15.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAEAAAAAAAJAQAAAAAAAAACAAAAAE=</HashCode>
+      <FileName>UI\PersonUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
